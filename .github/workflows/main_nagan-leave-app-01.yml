@@ -58,4 +58,4 @@ jobs:
         with:
           app-name: 'nagan-leave-app-01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1CCCD9954F0B40C0870AC8C0CC164BFE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DD64995E79CB4BA5BCD1A4EAE98771A9 }}
